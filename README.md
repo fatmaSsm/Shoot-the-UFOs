@@ -4,7 +4,7 @@ Shoot down UFOs with Pygame
 <p align="center">
   <img src="Shoot-the-UFOs!/assets/game.png">
 </p>
-
+ 
 ---
 
 # 👾 Gameplay
