@@ -46,6 +46,6 @@ Shoot down UFOs with Pygame
 ```
 
 ---
-
+ 
 ## 👩‍💻 Author
 * **Fatma Susam** - [@fatmaSsm](https://github.com/fatmaSsm)
