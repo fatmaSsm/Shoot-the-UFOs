@@ -40,7 +40,7 @@ Shoot down UFOs with Pygame
 - Resume the game by pressing ENTER or clicking RESUME.
 
 ---
-# 👉🏻 Don't Forget 
+# ❗Don't Forget 
 ```text
     pip install pygame
 ```
